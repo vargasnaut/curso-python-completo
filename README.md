@@ -15,5 +15,5 @@ del curso completo de Python que estoy desarrollando.
 - Proyectos finales
 
 ## Requisitos
-- Python 3.10+
+- Python 3.10, 3.11
 - VSCode / PyCharm
